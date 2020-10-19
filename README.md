@@ -1,3 +1,10 @@
+# This Repository Is Deprecated
+
+The library name is renamed to [ssvm_process_interface](https://crates.io/crates/ssvm_process_interface).
+
+Please follow the new crate for future versions.
+
+
 # Rust Process Interface Library
 
 A Rust library that provides Rust to WebAssembly developers with syntax for running commands functionality when their Wasm is being executed on [SecondState's SSVM](https://github.com/second-state/SSVM).
